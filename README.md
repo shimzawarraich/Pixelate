@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project so far includes a backend and frontend for a web app that handles user login and signup. Currently, the backend and frontend are not connected, but both parts work independently.
+Pixelate is a dynamic, fashion-forward digital catalog and outfit visualization platform, designed not for traditional e-commerce but as an interactive space for fashion discovery and self-expression. Inspired by platforms like Pinterest and Instagram, users can browse through fashion items, add them to virtual wardrobes, interact with other user posts through likes, and even upload and organize their own clothing collections.
+
+The goal is to help users visualize outfits, explore style trends, and build collections without focusing on transactions or purchases. 
 
 ## Prerequisites
 
